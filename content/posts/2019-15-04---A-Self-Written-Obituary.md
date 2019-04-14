@@ -1,4 +1,4 @@
----
+﻿---
 title: "A Self-Written Obituary" 
 date: "2019-04-14T22:40:32.169Z" 
 template: "post" 
@@ -6,10 +6,10 @@ draft: false
 slug: "/posts/a-self-written-obituary" 
 category: "Humour" 
 tags:
-"Linotype"
-"Monotype"
-"History of typography"
-"Helvetica" 
+- "Linotype"
+- "Monotype"
+- "History of typography"
+- "Helvetica" 
 description: "Dead People Fun"
 ---
 
