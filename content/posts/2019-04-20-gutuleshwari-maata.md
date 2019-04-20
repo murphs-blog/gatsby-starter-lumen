@@ -2,7 +2,7 @@
 template: post
 title: Gutuleshwari Maata
 slug: gutuleshwarimaata
-draft: true
+draft: false
 date: 2019-04-20T11:20:49.561Z
 description: Gutuleshwari Mataa
 category: Humor
